@@ -17,3 +17,13 @@ console.log('Em 2000',nomeCompleto,'conheceu Maria')
 console.log( nomeCompleto,'casou-se com Maria em 2012')
 console.log('Maria teve 1 filho com',nomeCompleto,'em 2015.')
 console.log('O filho de',nomeCompleto,'se chama Eduardo.')
+
+
+
+/*
+let nomeCompleto = "Renato"
+nomeCompleto ='Jumento'
+nomeCompleto = `Papagaio`
+
+console.log(nomeCompleto)
+*/

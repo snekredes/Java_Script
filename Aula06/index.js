@@ -10,8 +10,10 @@
 
 
 let nomeCompleto = 'Renato'
+let empregoTrabalhador = 'Anderson'
+window.alert(empregoTrabalhador)
 
-
+console.log('Surgiu uma vaga de emprego para',empregoTrabalhador, 'mas ele não quis "trabalhar"')
 console.log( nomeCompleto,'nasceu em 1984')
 console.log('Em 2000',nomeCompleto,'conheceu Maria')
 console.log( nomeCompleto,'casou-se com Maria em 2012')

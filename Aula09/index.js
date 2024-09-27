@@ -5,3 +5,6 @@ let nome = 'Renato'
 nome = 'Junior'
 
 console.log(nome)
+
+let sobrenome 
+console.log(sobrenome)

@@ -39,6 +39,6 @@ Operadores de atribuição
 
 
 let num = 10
-let num2 = parseFloat('27.7')
+let num2 = Number('27.9')
 console.log(num+num2)
 console.log(typeof num2)

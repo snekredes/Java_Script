@@ -37,8 +37,33 @@ Operadores de atribuição
 
 */
 
-
+/*
 let num = 10
 let num2 = Number('27.9')
 console.log(num+num2)
 console.log(typeof num2)
+*/
+
+ 
+ let peso = 80
+ let alturaEmMetro= 11.75
+
+ alturaEmMetro = peso / (alturaEmMetro*alturaEmMetro)
+ console.log(alturaEmMetro)
+ console.log(typeof peso, alturaEmMetro)
+
+ let contador = 0
+ let passo    = 2
+ 
+ contador = contador + passo
+ console.log(contador)
+ contador = contador + passo
+ console.log(contador)
+ contador = contador + passo
+ console.log(contador)
+ contador = contador + passo
+ console.log(contador)
+ contador = contador + passo
+ console.log(contador)
+ contador = contador + passo
+ console.log(contador)

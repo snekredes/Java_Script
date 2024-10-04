@@ -16,7 +16,7 @@ num1 += num2
 num1 += num2
 
 num1 = Number(num1.toFixed(2))
-console.log(num1)
+console.log(num1.toFixed(2))
 console.log(Number.isInteger(num1))
 
 
